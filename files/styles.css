@@ -646,3 +646,9 @@ ul.desc {
 ul.desc li::before {
     content: '';
 }
+
+
+/*css for skills*/
+ul.skill {
+    margin-top: 10px;
+}
